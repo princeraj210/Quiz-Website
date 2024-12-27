@@ -1,0 +1,10 @@
+
+-----------  for back of previous page  ----------------- 
+<button onclick="history.back()">Go Back</button>
+
+
+    width: 80%;			pure section ko size deta hai
+    margin: auto;           space from left and right sides ----------- of border ----in automatic center-----
+    text-align: center;			class - text in center										
+    padding-top: 50px;			outer container se space leta hai
+anchor tag ==> target="_blank"          it is used to open the link in new tag
